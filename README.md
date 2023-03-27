@@ -1,9 +1,9 @@
-# f
+# Professional README Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-f
+This application can be used to create a simple, efficient and professionall README for any/every project you author.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ f
 To install necessary dependencies, run the following command: 
 
 ```
-f
+npm i
 ```
 
 ## License
@@ -27,16 +27,16 @@ This Project is Licensed under the MIT license.
 
 ## Contributing
 
-f
+A user could contribute to this project by adding in more necessary content for a README file
 
 ## Tests
 
 To perform Tests, run the following command:
 
 ```
-f
+node index.js
 ```
 
 ## Questions
 
-For any questions about this project, please contact me at f. To view more of my work, you can visit my GitHub here [f](https://www.github.com/f/).
+For any questions about this project, please contact me at tiffanyrengland@gmail.com. To view more of my work, you can visit my GitHub here [Trengland](https://www.github.com/Trengland/).
