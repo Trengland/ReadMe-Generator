@@ -65,7 +65,7 @@ ${data.contributing}
 
 ## Tests
 
-To perform Tests, run the following command:
+To perform tests, run the following command:
 
 \`\`\`
 ${data.tests}
@@ -73,7 +73,8 @@ ${data.tests}
 
 ## Questions
 
-For any questions about this project, please contact me at ${data.email}. To view more of my work, you can visit my GitHub here [${data.github}](https://www.github.com/${data.github}/).
+For any questions about this project, contact the author at ${data.email}. 
+To view more of my work, you can visit my GitHub - [${data.github}](https://www.github.com/${data.github}/).
 `;
 }
 
