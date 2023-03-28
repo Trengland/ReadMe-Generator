@@ -1,7 +1,7 @@
 # Professional README Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Screen Roecording of application walk-through:
+## Screen Recording of application walk-through:
 https://www.loom.com/share/fde62ac3cca848ee8e91a7efb94e8a70
 
 
